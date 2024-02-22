@@ -2,4 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="error">#8E1212</color>
+    <color name="informacion">#3F51B5</color>
+    <color name="advertencia">#FFC107</color>
+    <color name="correcto">#009688</color>
 </resources>

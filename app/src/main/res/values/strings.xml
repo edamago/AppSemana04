@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AppSemana04</string>
+    <string name="tituloRegistro">REGISTRAR PERSONAS</string>
+    <string name="errornombreapellido">Es obligatorio ingresar el nombre y apellido</string>
 </resources>
